@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\TrabalhandoComClasses\TrabalhandoComClasses\bin\Debug\net8.0\TrabalhandoComClasses.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\TrabalhandoComClasses\TrabalhandoComClasses\bin\Debug\net8.0\TrabalhandoComClasses.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\TrabalhandoComClasses\TrabalhandoComClasses\bin\Debug\net8.0\TrabalhandoComClasses.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\TrabalhandoComClasses\TrabalhandoComClasses\bin\Debug\net8.0\TrabalhandoComClasses.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\TrabalhandoComClasses\TrabalhandoComClasses\bin\Debug\net8.0\TrabalhandoComClasses.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\TrabalhandoComClasses\TrabalhandoComClasses\obj\Debug\net8.0\TrabalhandoComClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\TrabalhandoComClasses\TrabalhandoComClasses\obj\Debug\net8.0\TrabalhandoComClasses.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\TrabalhandoComClasses\TrabalhandoComClasses\obj\Debug\net8.0\TrabalhandoComClasses.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\TrabalhandoComClasses\TrabalhandoComClasses\obj\Debug\net8.0\TrabalhandoComClasses.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\TrabalhandoComClasses\TrabalhandoComClasses\obj\Debug\net8.0\TrabalhandoComClasses.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\TrabalhandoComClasses\TrabalhandoComClasses\obj\Debug\net8.0\refint\TrabalhandoComClasses.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\TrabalhandoComClasses\TrabalhandoComClasses\obj\Debug\net8.0\TrabalhandoComClasses.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\TrabalhandoComClasses\TrabalhandoComClasses\obj\Debug\net8.0\TrabalhandoComClasses.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\TrabalhandoComClasses\TrabalhandoComClasses\obj\Debug\net8.0\ref\TrabalhandoComClasses.dll
