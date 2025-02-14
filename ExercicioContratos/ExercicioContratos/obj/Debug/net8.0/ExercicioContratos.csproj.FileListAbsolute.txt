@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\ExercicioContratos\ExercicioContratos\obj\Debug\net8.0\ExercicioContratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\ExercicioContratos\ExercicioContratos\obj\Debug\net8.0\ExercicioContratos.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\ExercicioContratos\ExercicioContratos\obj\Debug\net8.0\ExercicioContratos.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\ExercicioContratos\ExercicioContratos\obj\Debug\net8.0\ExercicioContratos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\ExercicioContratos\ExercicioContratos\bin\Debug\net8.0\ExercicioContratos.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\ExercicioContratos\ExercicioContratos\bin\Debug\net8.0\ExercicioContratos.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\ExercicioContratos\ExercicioContratos\bin\Debug\net8.0\ExercicioContratos.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\ExercicioContratos\ExercicioContratos\bin\Debug\net8.0\ExercicioContratos.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\ExercicioContratos\ExercicioContratos\bin\Debug\net8.0\ExercicioContratos.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\ExercicioContratos\ExercicioContratos\obj\Debug\net8.0\ExercicioContratos.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\ExercicioContratos\ExercicioContratos\obj\Debug\net8.0\refint\ExercicioContratos.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\ExercicioContratos\ExercicioContratos\obj\Debug\net8.0\ExercicioContratos.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\ExercicioContratos\ExercicioContratos\obj\Debug\net8.0\ExercicioContratos.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\ExercicioContratos\ExercicioContratos\obj\Debug\net8.0\ref\ExercicioContratos.dll

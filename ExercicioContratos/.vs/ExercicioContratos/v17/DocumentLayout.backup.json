@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Cursos\\C#\\ExercicioContratos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{224DBAC4-8EB3-4974-A429-AB1C0975C869}|ExercicioContratos\\ExercicioContratos.csproj|c:\\users\\lucas\\onedrive\\\u00E1rea de trabalho\\cursos\\c#\\exerciciocontratos\\exerciciocontratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224DBAC4-8EB3-4974-A429-AB1C0975C869}|ExercicioContratos\\ExercicioContratos.csproj|solutionrelative:exerciciocontratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224DBAC4-8EB3-4974-A429-AB1C0975C869}|ExercicioContratos\\ExercicioContratos.csproj|c:\\users\\lucas\\onedrive\\\u00E1rea de trabalho\\cursos\\c#\\exerciciocontratos\\exerciciocontratos\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224DBAC4-8EB3-4974-A429-AB1C0975C869}|ExercicioContratos\\ExercicioContratos.csproj|solutionrelative:exerciciocontratos\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224DBAC4-8EB3-4974-A429-AB1C0975C869}|ExercicioContratos\\ExercicioContratos.csproj|c:\\users\\lucas\\onedrive\\\u00E1rea de trabalho\\cursos\\c#\\exerciciocontratos\\exerciciocontratos\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224DBAC4-8EB3-4974-A429-AB1C0975C869}|ExercicioContratos\\ExercicioContratos.csproj|solutionrelative:exerciciocontratos\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224DBAC4-8EB3-4974-A429-AB1C0975C869}|ExercicioContratos\\ExercicioContratos.csproj|c:\\users\\lucas\\onedrive\\\u00E1rea de trabalho\\cursos\\c#\\exerciciocontratos\\exerciciocontratos\\entities\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224DBAC4-8EB3-4974-A429-AB1C0975C869}|ExercicioContratos\\ExercicioContratos.csproj|solutionrelative:exerciciocontratos\\entities\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224DBAC4-8EB3-4974-A429-AB1C0975C869}|ExercicioContratos\\ExercicioContratos.csproj|c:\\users\\lucas\\onedrive\\\u00E1rea de trabalho\\cursos\\c#\\exerciciocontratos\\exerciciocontratos\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224DBAC4-8EB3-4974-A429-AB1C0975C869}|ExercicioContratos\\ExercicioContratos.csproj|solutionrelative:exerciciocontratos\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Departament.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Cursos\\C#\\ExercicioContratos\\ExercicioContratos\\Entities\\Departament.cs",
+              "RelativeDocumentMoniker": "ExercicioContratos\\Entities\\Departament.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Cursos\\C#\\ExercicioContratos\\ExercicioContratos\\Entities\\Departament.cs",
+              "RelativeToolTip": "ExercicioContratos\\Entities\\Departament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T22:06:32.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hourContract.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Cursos\\C#\\ExercicioContratos\\ExercicioContratos\\Entities\\hourContract.cs",
+              "RelativeDocumentMoniker": "ExercicioContratos\\Entities\\hourContract.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Cursos\\C#\\ExercicioContratos\\ExercicioContratos\\Entities\\hourContract.cs",
+              "RelativeToolTip": "ExercicioContratos\\Entities\\hourContract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T22:02:49.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkerLevel.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Cursos\\C#\\ExercicioContratos\\ExercicioContratos\\Entities\\Enums\\WorkerLevel.cs",
+              "RelativeDocumentMoniker": "ExercicioContratos\\Entities\\Enums\\WorkerLevel.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Cursos\\C#\\ExercicioContratos\\ExercicioContratos\\Entities\\Enums\\WorkerLevel.cs",
+              "RelativeToolTip": "ExercicioContratos\\Entities\\Enums\\WorkerLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:38:30.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Cursos\\C#\\ExercicioContratos\\ExercicioContratos\\Entities\\Worker.cs",
+              "RelativeDocumentMoniker": "ExercicioContratos\\Entities\\Worker.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Cursos\\C#\\ExercicioContratos\\ExercicioContratos\\Entities\\Worker.cs",
+              "RelativeToolTip": "ExercicioContratos\\Entities\\Worker.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:36:13.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Cursos\\C#\\ExercicioContratos\\ExercicioContratos\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioContratos\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Cursos\\C#\\ExercicioContratos\\ExercicioContratos\\Program.cs",
+              "RelativeToolTip": "ExercicioContratos\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:35:07.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
