@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Employee\Employee\bin\Debug\net8.0\Employee.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Employee\Employee\bin\Debug\net8.0\Employee.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Employee\Employee\bin\Debug\net8.0\Employee.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Employee\Employee\bin\Debug\net8.0\Employee.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Employee\Employee\bin\Debug\net8.0\Employee.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Employee\Employee\obj\Debug\net8.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Employee\Employee\obj\Debug\net8.0\Employee.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Employee\Employee\obj\Debug\net8.0\Employee.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Employee\Employee\obj\Debug\net8.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Employee\Employee\obj\Debug\net8.0\Employee.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Employee\Employee\obj\Debug\net8.0\refint\Employee.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Employee\Employee\obj\Debug\net8.0\Employee.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Employee\Employee\obj\Debug\net8.0\Employee.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Employee\Employee\obj\Debug\net8.0\ref\Employee.dll
