@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Classes_abstratas\Classes_abstratas\bin\Debug\net8.0\Classes_abstratas.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Classes_abstratas\Classes_abstratas\bin\Debug\net8.0\Classes_abstratas.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Classes_abstratas\Classes_abstratas\bin\Debug\net8.0\Classes_abstratas.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Classes_abstratas\Classes_abstratas\bin\Debug\net8.0\Classes_abstratas.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Classes_abstratas\Classes_abstratas\bin\Debug\net8.0\Classes_abstratas.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Classes_abstratas\Classes_abstratas\obj\Debug\net8.0\Classes_abstratas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Classes_abstratas\Classes_abstratas\obj\Debug\net8.0\Classes_abstratas.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Classes_abstratas\Classes_abstratas\obj\Debug\net8.0\Classes_abstratas.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Classes_abstratas\Classes_abstratas\obj\Debug\net8.0\Classes_abstratas.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Classes_abstratas\Classes_abstratas\obj\Debug\net8.0\Classes_abstratas.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Classes_abstratas\Classes_abstratas\obj\Debug\net8.0\refint\Classes_abstratas.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Classes_abstratas\Classes_abstratas\obj\Debug\net8.0\Classes_abstratas.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Classes_abstratas\Classes_abstratas\obj\Debug\net8.0\Classes_abstratas.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Classes_abstratas\Classes_abstratas\obj\Debug\net8.0\ref\Classes_abstratas.dll

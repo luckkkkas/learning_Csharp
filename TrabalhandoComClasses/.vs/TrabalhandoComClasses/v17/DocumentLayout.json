@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Cursos\\C#\\learning_c-\\TrabalhandoComClasses\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8765619-6DD3-48DB-8CFB-5E420D0F2945}|TrabalhandoComClasses\\TrabalhandoComClasses.csproj|c:\\users\\lucas\\onedrive\\\u00E1rea de trabalho\\cursos\\c#\\learning_c-\\trabalhandocomclasses\\trabalhandocomclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8765619-6DD3-48DB-8CFB-5E420D0F2945}|TrabalhandoComClasses\\TrabalhandoComClasses.csproj|solutionrelative:trabalhandocomclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A8765619-6DD3-48DB-8CFB-5E420D0F2945}|TrabalhandoComClasses\\TrabalhandoComClasses.csproj|c:\\users\\lucas\\onedrive\\\u00E1rea de trabalho\\cursos\\c#\\learning_c-\\trabalhandocomclasses\\trabalhandocomclasses\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8765619-6DD3-48DB-8CFB-5E420D0F2945}|TrabalhandoComClasses\\TrabalhandoComClasses.csproj|solutionrelative:trabalhandocomclasses\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A8765619-6DD3-48DB-8CFB-5E420D0F2945}|TrabalhandoComClasses\\TrabalhandoComClasses.csproj|c:\\users\\lucas\\onedrive\\\u00E1rea de trabalho\\cursos\\c#\\learning_c-\\trabalhandocomclasses\\trabalhandocomclasses\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8765619-6DD3-48DB-8CFB-5E420D0F2945}|TrabalhandoComClasses\\TrabalhandoComClasses.csproj|solutionrelative:trabalhandocomclasses\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8765619-6DD3-48DB-8CFB-5E420D0F2945}|TrabalhandoComClasses\\TrabalhandoComClasses.csproj|c:\\users\\lucas\\onedrive\\\u00E1rea de trabalho\\cursos\\c#\\learning_c-\\trabalhandocomclasses\\trabalhandocomclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8765619-6DD3-48DB-8CFB-5E420D0F2945}|TrabalhandoComClasses\\TrabalhandoComClasses.csproj|solutionrelative:trabalhandocomclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Cursos\\C#\\learning_c-\\TrabalhandoComClasses\\TrabalhandoComClasses\\Program.cs",
               "RelativeDocumentMoniker": "TrabalhandoComClasses\\Program.cs",
               "ToolTip": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Cursos\\C#\\learning_c-\\TrabalhandoComClasses\\TrabalhandoComClasses\\Program.cs",
               "RelativeToolTip": "TrabalhandoComClasses\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCcAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCcAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T18:44:40.156Z",
               "IsPinned": true,
@@ -44,7 +44,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "OrderStatus.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Cursos\\C#\\learning_c-\\TrabalhandoComClasses\\TrabalhandoComClasses\\Entities\\Enums\\OrderStatus.cs",
               "RelativeDocumentMoniker": "TrabalhandoComClasses\\Entities\\Enums\\OrderStatus.cs",
@@ -57,7 +57,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Cursos\\C#\\learning_c-\\TrabalhandoComClasses\\TrabalhandoComClasses\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "TrabalhandoComClasses\\Entities\\Order.cs",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Conta.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Cursos\\C#\\learning_c-\\TrabalhandoComClasses\\TrabalhandoComClasses\\Conta.cs",
               "RelativeDocumentMoniker": "TrabalhandoComClasses\\Conta.cs",
