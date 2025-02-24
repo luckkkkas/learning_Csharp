@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Exercicio_heranca_polimorfismo\Exercicio_heranca_polimorfismo\bin\Debug\net8.0\Exercicio_heranca_polimorfismo.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Exercicio_heranca_polimorfismo\Exercicio_heranca_polimorfismo\bin\Debug\net8.0\Exercicio_heranca_polimorfismo.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Exercicio_heranca_polimorfismo\Exercicio_heranca_polimorfismo\bin\Debug\net8.0\Exercicio_heranca_polimorfismo.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Exercicio_heranca_polimorfismo\Exercicio_heranca_polimorfismo\bin\Debug\net8.0\Exercicio_heranca_polimorfismo.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Exercicio_heranca_polimorfismo\Exercicio_heranca_polimorfismo\bin\Debug\net8.0\Exercicio_heranca_polimorfismo.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Exercicio_heranca_polimorfismo\Exercicio_heranca_polimorfismo\obj\Debug\net8.0\Exercicio_heranca_polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Exercicio_heranca_polimorfismo\Exercicio_heranca_polimorfismo\obj\Debug\net8.0\Exercicio_heranca_polimorfismo.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Exercicio_heranca_polimorfismo\Exercicio_heranca_polimorfismo\obj\Debug\net8.0\Exercicio_heranca_polimorfismo.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Exercicio_heranca_polimorfismo\Exercicio_heranca_polimorfismo\obj\Debug\net8.0\Exercicio_heranca_polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Exercicio_heranca_polimorfismo\Exercicio_heranca_polimorfismo\obj\Debug\net8.0\Exercicio_heranca_polimorfismo.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Exercicio_heranca_polimorfismo\Exercicio_heranca_polimorfismo\obj\Debug\net8.0\refint\Exercicio_heranca_polimorfismo.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Exercicio_heranca_polimorfismo\Exercicio_heranca_polimorfismo\obj\Debug\net8.0\Exercicio_heranca_polimorfismo.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Exercicio_heranca_polimorfismo\Exercicio_heranca_polimorfismo\obj\Debug\net8.0\Exercicio_heranca_polimorfismo.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Exercicio_heranca_polimorfismo\Exercicio_heranca_polimorfismo\obj\Debug\net8.0\ref\Exercicio_heranca_polimorfismo.dll
