@@ -7,8 +7,6 @@ namespace Classes_abstratas.Entities {
             this.color = color;
         }
 
-        public virtual Double area() {
-            return area();
-        }
+        public abstract Double area();
     }
 }
