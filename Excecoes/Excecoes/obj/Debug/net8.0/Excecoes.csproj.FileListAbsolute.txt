@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Excecoes\Excecoes\bin\Debug\net8.0\Excecoes.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Excecoes\Excecoes\bin\Debug\net8.0\Excecoes.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Excecoes\Excecoes\bin\Debug\net8.0\Excecoes.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Excecoes\Excecoes\bin\Debug\net8.0\Excecoes.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Excecoes\Excecoes\bin\Debug\net8.0\Excecoes.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Excecoes\Excecoes\obj\Debug\net8.0\refint\Excecoes.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\Excecoes\Excecoes\obj\Debug\net8.0\ref\Excecoes.dll
