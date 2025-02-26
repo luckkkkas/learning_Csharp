@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GetHasCode_Equals/1.0.0": {
+        "runtime": {
+          "GetHasCode_Equals.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GetHasCode_Equals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

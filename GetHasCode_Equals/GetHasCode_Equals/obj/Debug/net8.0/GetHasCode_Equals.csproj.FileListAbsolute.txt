@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\GetHasCode_Equals\GetHasCode_Equals\bin\Debug\net8.0\GetHasCode_Equals.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\GetHasCode_Equals\GetHasCode_Equals\bin\Debug\net8.0\GetHasCode_Equals.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\GetHasCode_Equals\GetHasCode_Equals\bin\Debug\net8.0\GetHasCode_Equals.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\GetHasCode_Equals\GetHasCode_Equals\bin\Debug\net8.0\GetHasCode_Equals.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\GetHasCode_Equals\GetHasCode_Equals\bin\Debug\net8.0\GetHasCode_Equals.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\GetHasCode_Equals\GetHasCode_Equals\obj\Debug\net8.0\GetHasCode_Equals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\GetHasCode_Equals\GetHasCode_Equals\obj\Debug\net8.0\GetHasCode_Equals.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\GetHasCode_Equals\GetHasCode_Equals\obj\Debug\net8.0\GetHasCode_Equals.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\GetHasCode_Equals\GetHasCode_Equals\obj\Debug\net8.0\GetHasCode_Equals.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\GetHasCode_Equals\GetHasCode_Equals\obj\Debug\net8.0\GetHasCode_Equals.sourcelink.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\GetHasCode_Equals\GetHasCode_Equals\obj\Debug\net8.0\GetHasCode_Equals.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\GetHasCode_Equals\GetHasCode_Equals\obj\Debug\net8.0\refint\GetHasCode_Equals.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\GetHasCode_Equals\GetHasCode_Equals\obj\Debug\net8.0\GetHasCode_Equals.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\GetHasCode_Equals\GetHasCode_Equals\obj\Debug\net8.0\GetHasCode_Equals.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\GetHasCode_Equals\GetHasCode_Equals\obj\Debug\net8.0\ref\GetHasCode_Equals.dll
