@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Read_logFiles\Read_logFiles\bin\Debug\net8.0\Read_logFiles.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Read_logFiles\Read_logFiles\bin\Debug\net8.0\Read_logFiles.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Read_logFiles\Read_logFiles\bin\Debug\net8.0\Read_logFiles.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Read_logFiles\Read_logFiles\bin\Debug\net8.0\Read_logFiles.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Read_logFiles\Read_logFiles\bin\Debug\net8.0\Read_logFiles.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Read_logFiles\Read_logFiles\obj\Debug\net8.0\Read_logFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Read_logFiles\Read_logFiles\obj\Debug\net8.0\Read_logFiles.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Read_logFiles\Read_logFiles\obj\Debug\net8.0\Read_logFiles.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Read_logFiles\Read_logFiles\obj\Debug\net8.0\Read_logFiles.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Read_logFiles\Read_logFiles\obj\Debug\net8.0\Read_logFiles.sourcelink.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Read_logFiles\Read_logFiles\obj\Debug\net8.0\Read_logFiles.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Read_logFiles\Read_logFiles\obj\Debug\net8.0\refint\Read_logFiles.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Read_logFiles\Read_logFiles\obj\Debug\net8.0\Read_logFiles.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Read_logFiles\Read_logFiles\obj\Debug\net8.0\Read_logFiles.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Read_logFiles\Read_logFiles\obj\Debug\net8.0\ref\Read_logFiles.dll
