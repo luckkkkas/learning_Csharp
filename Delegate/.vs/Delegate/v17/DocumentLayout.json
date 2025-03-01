@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{F2B110C5-C488-4BC9-AEBF-C36B38D55B75}|Delegate\\Delegate.csproj|solutionrelative:delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F2B110C5-C488-4BC9-AEBF-C36B38D55B75}|Delegate\\Delegate.csproj|c:\\users\\lucas\\onedrive\\\u00E1rea de trabalho\\cursos\\c#\\learning_c-\\delegate\\delegate\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B110C5-C488-4BC9-AEBF-C36B38D55B75}|Delegate\\Delegate.csproj|solutionrelative:delegate\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F2B110C5-C488-4BC9-AEBF-C36B38D55B75}|Delegate\\Delegate.csproj|c:\\users\\lucas\\onedrive\\\u00E1rea de trabalho\\cursos\\c#\\learning_c-\\delegate\\delegate\\entities\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2B110C5-C488-4BC9-AEBF-C36B38D55B75}|Delegate\\Delegate.csproj|solutionrelative:delegate\\entities\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,17 +22,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Cursos\\C#\\learning_c-\\Delegate\\Delegate\\Entities\\product.cs",
+              "RelativeDocumentMoniker": "Delegate\\Entities\\product.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Cursos\\C#\\learning_c-\\Delegate\\Delegate\\Entities\\product.cs",
+              "RelativeToolTip": "Delegate\\Entities\\product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T22:52:18.075Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CalculationService.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Cursos\\C#\\learning_c-\\Delegate\\Delegate\\Entities\\CalculationService.cs",
               "RelativeDocumentMoniker": "Delegate\\Entities\\CalculationService.cs",
               "ToolTip": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Cursos\\C#\\learning_c-\\Delegate\\Delegate\\Entities\\CalculationService.cs",
               "RelativeToolTip": "Delegate\\Entities\\CalculationService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA7wBYAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wBYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T20:20:45.319Z",
               "EditorCaption": ""
@@ -41,7 +59,7 @@
               "RelativeDocumentMoniker": "Delegate\\Program.cs",
               "ToolTip": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Cursos\\C#\\learning_c-\\Delegate\\Delegate\\Program.cs",
               "RelativeToolTip": "Delegate\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T20:20:12.129Z",
               "EditorCaption": ""
