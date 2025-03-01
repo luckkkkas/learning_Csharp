@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Expressoes_lambda\Expressoes_lambda\bin\Debug\net8.0\Expressoes_lambda.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Expressoes_lambda\Expressoes_lambda\bin\Debug\net8.0\Expressoes_lambda.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Expressoes_lambda\Expressoes_lambda\bin\Debug\net8.0\Expressoes_lambda.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Expressoes_lambda\Expressoes_lambda\bin\Debug\net8.0\Expressoes_lambda.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Expressoes_lambda\Expressoes_lambda\bin\Debug\net8.0\Expressoes_lambda.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Expressoes_lambda\Expressoes_lambda\obj\Debug\net8.0\Expressoes_lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Expressoes_lambda\Expressoes_lambda\obj\Debug\net8.0\Expressoes_lambda.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Expressoes_lambda\Expressoes_lambda\obj\Debug\net8.0\Expressoes_lambda.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Expressoes_lambda\Expressoes_lambda\obj\Debug\net8.0\Expressoes_lambda.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Expressoes_lambda\Expressoes_lambda\obj\Debug\net8.0\Expressoes_lambda.sourcelink.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Expressoes_lambda\Expressoes_lambda\obj\Debug\net8.0\Expressoes_lambda.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Expressoes_lambda\Expressoes_lambda\obj\Debug\net8.0\refint\Expressoes_lambda.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Expressoes_lambda\Expressoes_lambda\obj\Debug\net8.0\Expressoes_lambda.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Expressoes_lambda\Expressoes_lambda\obj\Debug\net8.0\Expressoes_lambda.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Expressoes_lambda\Expressoes_lambda\obj\Debug\net8.0\ref\Expressoes_lambda.dll

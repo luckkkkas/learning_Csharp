@@ -1,0 +1,13 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\MyFirstApiCsharp\MyFirstApiCsharp.ServiceDefaults\bin\Debug\net8.0\MyFirstApiCsharp.ServiceDefaults.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\MyFirstApiCsharp\MyFirstApiCsharp.ServiceDefaults\bin\Debug\net8.0\MyFirstApiCsharp.ServiceDefaults.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\MyFirstApiCsharp\MyFirstApiCsharp.ServiceDefaults\bin\Debug\net8.0\MyFirstApiCsharp.ServiceDefaults.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\MyFirstApiCsharp\MyFirstApiCsharp.ServiceDefaults\obj\Debug\net8.0\MyFirstApiCsharp.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\MyFirstApiCsharp\MyFirstApiCsharp.ServiceDefaults\obj\Debug\net8.0\MyFirstApiCsharp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\MyFirstApiCsharp\MyFirstApiCsharp.ServiceDefaults\obj\Debug\net8.0\MyFirstApiCsharp.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\MyFirstApiCsharp\MyFirstApiCsharp.ServiceDefaults\obj\Debug\net8.0\MyFirstApiCsharp.ServiceDefaults.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\MyFirstApiCsharp\MyFirstApiCsharp.ServiceDefaults\obj\Debug\net8.0\MyFirstApiCsharp.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\MyFirstApiCsharp\MyFirstApiCsharp.ServiceDefaults\obj\Debug\net8.0\MyFirstApiCsharp.ServiceDefaults.sourcelink.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\MyFirstApiCsharp\MyFirstApiCsharp.ServiceDefaults\obj\Debug\net8.0\MyFirstApiCsharp.ServiceDefaults.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\MyFirstApiCsharp\MyFirstApiCsharp.ServiceDefaults\obj\Debug\net8.0\refint\MyFirstApiCsharp.ServiceDefaults.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\MyFirstApiCsharp\MyFirstApiCsharp.ServiceDefaults\obj\Debug\net8.0\MyFirstApiCsharp.ServiceDefaults.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\MyFirstApiCsharp\MyFirstApiCsharp.ServiceDefaults\obj\Debug\net8.0\ref\MyFirstApiCsharp.ServiceDefaults.dll
