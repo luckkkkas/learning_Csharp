@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Linq\Linq\bin\Debug\net8.0\Linq.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Linq\Linq\bin\Debug\net8.0\Linq.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Linq\Linq\bin\Debug\net8.0\Linq.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Linq\Linq\bin\Debug\net8.0\Linq.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Linq\Linq\bin\Debug\net8.0\Linq.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Linq\Linq\obj\Debug\net8.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Linq\Linq\obj\Debug\net8.0\Linq.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Linq\Linq\obj\Debug\net8.0\Linq.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Linq\Linq\obj\Debug\net8.0\Linq.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Linq\Linq\obj\Debug\net8.0\Linq.sourcelink.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Linq\Linq\obj\Debug\net8.0\Linq.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Linq\Linq\obj\Debug\net8.0\refint\Linq.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Linq\Linq\obj\Debug\net8.0\Linq.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Linq\Linq\obj\Debug\net8.0\Linq.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Cursos\C#\learning_c-\Linq\Linq\obj\Debug\net8.0\ref\Linq.dll
