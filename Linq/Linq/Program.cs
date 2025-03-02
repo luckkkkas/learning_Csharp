@@ -30,15 +30,20 @@ List<Product> products = new List<Product>() {
                 new Product() { Id = 11, Name = "Level", Price = 70.0, Category = c1 }
             };
 
-var r1 = products.Where(p => p.Category.Tier == 1 && p.Price  < 900);
+// var r1 = products.Where(p => p.Category.Tier == 1 && p.Price  < 900);
+var r1 = from p in products where p.Category.Tier == 1 && p.Price < 900.00 select p;
 
-var r2 = products.Where(p => p.Category.Name == "Tools").Select(p => p.Name);
+//var r2 = products.Where(p => p.Category.Name == "Tools").Select(p => p.Name);
+var r2 = from p in products where p.Category.Name == "Tools" select p.Name;
 
-var r3 = products.Where(p => p.Name[0] == 'C').Select(p => new {p.Name, p.Price, CategoryName = p.Category.Name});
+//var r3 = products.Where(p => p.Name[0] == 'C').Select(p => new {p.Name, p.Price, CategoryName = p.Category.Name});
+var r3 = from p in products where p.Name[0] == 'C' select new { p.Name, p.Price, CategoryName = p.Category.Name};
 
-var r4 = products.Where(p => p.Category.Tier == 1).OrderBy(p => p.Price).ThenBy(p => p.Name);
+//var r4 = products.Where(p => p.Category.Tier == 1).OrderBy(p => p.Price).ThenBy(p => p.Name);
+var r4 = from p in products where p.Category.Tier == 1 orderby p.Name orderby p.Price select p;
 
-var r5 = r4.Skip(2).Take(4); // PULA OS 2 PRIMEIROS E PAGA OS PROXIMOS 4
+//var r5 = r4.Skip(2).Take(4); // PULA OS 2 PRIMEIROS E PAGA OS PROXIMOS 4
+var r5 = (from p in r4 select p).Skip(2).Take(4);
 
 var r6 = products.First();
 
@@ -70,6 +75,6 @@ foreach (IGrouping<Category, Product> item in r16) {
 
 Console.WriteLine(r12);
 
-foreach (var item in r5) {
+foreach (var item in r4) {
     Console.WriteLine(item);
 }
