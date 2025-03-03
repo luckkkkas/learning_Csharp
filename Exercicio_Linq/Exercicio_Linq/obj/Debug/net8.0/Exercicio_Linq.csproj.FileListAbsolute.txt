@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\git\learning_c-\Exercicio_Linq\Exercicio_Linq\bin\Debug\net8.0\Exercicio_Linq.exe
+C:\Users\lucas\Desktop\git\learning_c-\Exercicio_Linq\Exercicio_Linq\bin\Debug\net8.0\Exercicio_Linq.deps.json
+C:\Users\lucas\Desktop\git\learning_c-\Exercicio_Linq\Exercicio_Linq\bin\Debug\net8.0\Exercicio_Linq.runtimeconfig.json
+C:\Users\lucas\Desktop\git\learning_c-\Exercicio_Linq\Exercicio_Linq\bin\Debug\net8.0\Exercicio_Linq.dll
+C:\Users\lucas\Desktop\git\learning_c-\Exercicio_Linq\Exercicio_Linq\bin\Debug\net8.0\Exercicio_Linq.pdb
+C:\Users\lucas\Desktop\git\learning_c-\Exercicio_Linq\Exercicio_Linq\obj\Debug\net8.0\Exercicio_Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\git\learning_c-\Exercicio_Linq\Exercicio_Linq\obj\Debug\net8.0\Exercicio_Linq.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\git\learning_c-\Exercicio_Linq\Exercicio_Linq\obj\Debug\net8.0\Exercicio_Linq.AssemblyInfo.cs
+C:\Users\lucas\Desktop\git\learning_c-\Exercicio_Linq\Exercicio_Linq\obj\Debug\net8.0\Exercicio_Linq.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\git\learning_c-\Exercicio_Linq\Exercicio_Linq\obj\Debug\net8.0\Exercicio_Linq.sourcelink.json
+C:\Users\lucas\Desktop\git\learning_c-\Exercicio_Linq\Exercicio_Linq\obj\Debug\net8.0\Exercicio_Linq.dll
+C:\Users\lucas\Desktop\git\learning_c-\Exercicio_Linq\Exercicio_Linq\obj\Debug\net8.0\refint\Exercicio_Linq.dll
+C:\Users\lucas\Desktop\git\learning_c-\Exercicio_Linq\Exercicio_Linq\obj\Debug\net8.0\Exercicio_Linq.pdb
+C:\Users\lucas\Desktop\git\learning_c-\Exercicio_Linq\Exercicio_Linq\obj\Debug\net8.0\Exercicio_Linq.genruntimeconfig.cache
+C:\Users\lucas\Desktop\git\learning_c-\Exercicio_Linq\Exercicio_Linq\obj\Debug\net8.0\ref\Exercicio_Linq.dll
