@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\OneDrive\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\MVCApi.csproj": {}
+    "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\MVCApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\OneDrive\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\MVCApi.csproj": {
+    "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\MVCApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\MVCApi.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\MVCApi.csproj",
         "projectName": "MVCApi",
-        "projectPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\MVCApi.csproj",
+        "projectPath": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\MVCApi.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,16 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[9.0.0, )"

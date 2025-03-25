@@ -1,4 +1,9 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using MVCApi.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<MVCApiContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("MVCApiContext"), builder => builder.MigrationsAssembly("MVCApi")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
