@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Migrations\\20250326190653_OtherEntities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVCApi\\Migrations\\20250326190653_OtherEntities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597B1BF9-8923-4798-9A6F-D346262FAEED}|MVCApi\\MVCApi.csproj|c:\\users\\lucas\\desktop\\git\\learning_c-\\mvcapi\\mvcapi\\data\\mvcapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597B1BF9-8923-4798-9A6F-D346262FAEED}|MVCApi\\MVCApi.csproj|solutionrelative:mvcapi\\data\\mvcapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597B1BF9-8923-4798-9A6F-D346262FAEED}|MVCApi\\MVCApi.csproj|c:\\users\\lucas\\desktop\\git\\learning_c-\\mvcapi\\mvcapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597B1BF9-8923-4798-9A6F-D346262FAEED}|MVCApi\\MVCApi.csproj|solutionrelative:mvcapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{597B1BF9-8923-4798-9A6F-D346262FAEED}|MVCApi\\MVCApi.csproj|c:\\users\\lucas\\desktop\\git\\learning_c-\\mvcapi\\mvcapi\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{597B1BF9-8923-4798-9A6F-D346262FAEED}|MVCApi\\MVCApi.csproj|solutionrelative:mvcapi\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{597B1BF9-8923-4798-9A6F-D346262FAEED}|MVCApi\\MVCApi.csproj|c:\\users\\lucas\\desktop\\git\\learning_c-\\mvcapi\\mvcapi\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{597B1BF9-8923-4798-9A6F-D346262FAEED}|MVCApi\\MVCApi.csproj|solutionrelative:mvcapi\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{597B1BF9-8923-4798-9A6F-D346262FAEED}|MVCApi\\MVCApi.csproj|c:\\users\\lucas\\desktop\\git\\learning_c-\\mvcapi\\mvcapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{597B1BF9-8923-4798-9A6F-D346262FAEED}|MVCApi\\MVCApi.csproj|solutionrelative:mvcapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{597B1BF9-8923-4798-9A6F-D346262FAEED}|MVCApi\\MVCApi.csproj|c:\\users\\lucas\\desktop\\git\\learning_c-\\mvcapi\\mvcapi\\models\\enums\\salestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,12 +49,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20250326190653_OtherEntities.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Migrations\\20250326190653_OtherEntities.cs",
+              "RelativeDocumentMoniker": "MVCApi\\Migrations\\20250326190653_OtherEntities.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Migrations\\20250326190653_OtherEntities.cs",
+              "RelativeToolTip": "MVCApi\\Migrations\\20250326190653_OtherEntities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T19:06:53.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MVCApiContext.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Data\\MVCApiContext.cs",
+              "RelativeDocumentMoniker": "MVCApi\\Data\\MVCApiContext.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Data\\MVCApiContext.cs",
+              "RelativeToolTip": "MVCApi\\Data\\MVCApiContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T19:00:44.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Seller.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Models\\Seller.cs",
               "RelativeDocumentMoniker": "MVCApi\\Models\\Seller.cs",
               "ToolTip": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Models\\Seller.cs",
               "RelativeToolTip": "MVCApi\\Models\\Seller.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA4wA4AAAB1AAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwB8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T21:49:08.452Z",
               "EditorCaption": ""
@@ -59,14 +93,14 @@
               "RelativeDocumentMoniker": "MVCApi\\Models\\Department.cs",
               "ToolTip": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Models\\Department.cs",
               "RelativeToolTip": "MVCApi\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBYAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T21:47:14.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SaleStatus.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Models\\Enums\\SaleStatus.cs",
               "RelativeDocumentMoniker": "MVCApi\\Models\\Enums\\SaleStatus.cs",
@@ -74,12 +108,11 @@
               "RelativeToolTip": "MVCApi\\Models\\Enums\\SaleStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T21:44:17.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T21:44:17.776Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "SalesRecord.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Models\\SalesRecord.cs",
               "RelativeDocumentMoniker": "MVCApi\\Models\\SalesRecord.cs",
@@ -87,8 +120,7 @@
               "RelativeToolTip": "MVCApi\\Models\\SalesRecord.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAA9wA4AAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T21:38:58.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T21:38:58.671Z"
             }
           ]
         }
