@@ -7,6 +7,7 @@ builder.Services.AddDbContext<MVCApiContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("MVCApiContext"), builder => builder.MigrationsAssembly("MVCApi")));
 builder.Services.AddScoped<SeedingService>();
 builder.Services.AddScoped<SellerService>();
+builder.Services.AddScoped<DepartmentService>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
