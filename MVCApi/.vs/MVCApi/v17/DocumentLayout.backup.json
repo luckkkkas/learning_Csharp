@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{597B1BF9-8923-4798-9A6F-D346262FAEED}|MVCApi\\MVCApi.csproj|solutionrelative:mvcapi\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{597B1BF9-8923-4798-9A6F-D346262FAEED}|MVCApi\\MVCApi.csproj|c:\\users\\lucas\\desktop\\git\\learning_c-\\mvcapi\\mvcapi\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{597B1BF9-8923-4798-9A6F-D346262FAEED}|MVCApi\\MVCApi.csproj|solutionrelative:mvcapi\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597B1BF9-8923-4798-9A6F-D346262FAEED}|MVCApi\\MVCApi.csproj|c:\\users\\lucas\\desktop\\git\\learning_c-\\mvcapi\\mvcapi\\models\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597B1BF9-8923-4798-9A6F-D346262FAEED}|MVCApi\\MVCApi.csproj|solutionrelative:mvcapi\\models\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{597B1BF9-8923-4798-9A6F-D346262FAEED}|MVCApi\\MVCApi.csproj|c:\\users\\lucas\\desktop\\git\\learning_c-\\mvcapi\\mvcapi\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{597B1BF9-8923-4798-9A6F-D346262FAEED}|MVCApi\\MVCApi.csproj|solutionrelative:mvcapi\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -106,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 155,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,7 +122,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MVCApi\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MVCApi\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T20:05:34.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Models\\ViewModels\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MVCApi\\Models\\ViewModels\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Models\\ViewModels\\ErrorViewModel.cs",
+              "RelativeToolTip": "MVCApi\\Models\\ViewModels\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:03:46.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Views\\Sellers\\Edit.cshtml",
               "RelativeDocumentMoniker": "MVCApi\\Views\\Sellers\\Edit.cshtml",
@@ -122,12 +156,11 @@
               "RelativeToolTip": "MVCApi\\Views\\Sellers\\Edit.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T19:51:03.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T19:51:03.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "DbConcurencyException.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Services\\Exceptions\\DbConcurencyException.cs",
               "RelativeDocumentMoniker": "MVCApi\\Services\\Exceptions\\DbConcurencyException.cs",
@@ -135,12 +168,11 @@
               "RelativeToolTip": "MVCApi\\Services\\Exceptions\\DbConcurencyException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T19:25:31.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T19:25:31.453Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Services\\Exceptions\\NotFoundException.cs",
               "RelativeDocumentMoniker": "MVCApi\\Services\\Exceptions\\NotFoundException.cs",
@@ -148,12 +180,11 @@
               "RelativeToolTip": "MVCApi\\Services\\Exceptions\\NotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T19:23:46.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T19:23:46.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DepartmentsController.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "MVCApi\\Controllers\\DepartmentsController.cs",
@@ -161,12 +192,11 @@
               "RelativeToolTip": "MVCApi\\Controllers\\DepartmentsController.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAwwAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T20:29:17.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T20:29:17.224Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Views\\Sellers\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCApi\\Views\\Sellers\\Index.cshtml",
@@ -184,14 +214,14 @@
               "RelativeDocumentMoniker": "MVCApi\\Controllers\\SellersController.cs",
               "ToolTip": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Controllers\\SellersController.cs",
               "RelativeToolTip": "MVCApi\\Controllers\\SellersController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAgwGQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAA3wF4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T20:25:45.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Views\\Sellers\\Create.cshtml",
               "RelativeDocumentMoniker": "MVCApi\\Views\\Sellers\\Create.cshtml",
@@ -199,12 +229,11 @@
               "RelativeToolTip": "MVCApi\\Views\\Sellers\\Create.cshtml",
               "ViewState": "AgIAAAsAAAAAAAAAAAAkwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T21:21:40.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T21:21:40.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Program.cs",
               "RelativeDocumentMoniker": "MVCApi\\Program.cs",
@@ -216,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "SellerService.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Services\\SellerService.cs",
               "RelativeDocumentMoniker": "MVCApi\\Services\\SellerService.cs",
@@ -224,12 +253,11 @@
               "RelativeToolTip": "MVCApi\\Services\\SellerService.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAQwAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T20:40:46.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T20:40:46.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "SellerFormViewModel.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Models\\ViewModels\\SellerFormViewModel.cs",
               "RelativeDocumentMoniker": "MVCApi\\Models\\ViewModels\\SellerFormViewModel.cs",
@@ -237,12 +265,11 @@
               "RelativeToolTip": "MVCApi\\Models\\ViewModels\\SellerFormViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T23:32:20.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T23:32:20.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "DepartmentService.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Services\\DepartmentService.cs",
               "RelativeDocumentMoniker": "MVCApi\\Services\\DepartmentService.cs",
@@ -250,12 +277,11 @@
               "RelativeToolTip": "MVCApi\\Services\\DepartmentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T23:28:41.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T23:28:41.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Views\\Departments\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCApi\\Views\\Departments\\Index.cshtml",
@@ -267,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Views\\Sellers\\Delete.cshtml",
               "RelativeDocumentMoniker": "MVCApi\\Views\\Sellers\\Delete.cshtml",
@@ -279,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Views\\Sellers\\Details.cshtml",
               "RelativeDocumentMoniker": "MVCApi\\Views\\Sellers\\Details.cshtml",
@@ -291,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "MVCApiContext.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Data\\MVCApiContext.cs",
               "RelativeDocumentMoniker": "MVCApi\\Data\\MVCApiContext.cs",
@@ -303,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Views\\Departments\\Delete.cshtml",
               "RelativeDocumentMoniker": "MVCApi\\Views\\Departments\\Delete.cshtml",
@@ -315,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Views\\Departments\\Edit.cshtml",
               "RelativeDocumentMoniker": "MVCApi\\Views\\Departments\\Edit.cshtml",
@@ -327,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Views\\Departments\\Create.cshtml",
               "RelativeDocumentMoniker": "MVCApi\\Views\\Departments\\Create.cshtml",
@@ -339,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "SeedingService.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Data\\SeedingService.cs",
               "RelativeDocumentMoniker": "MVCApi\\Data\\SeedingService.cs",
@@ -351,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Models\\Department.cs",
               "RelativeDocumentMoniker": "MVCApi\\Models\\Department.cs",
@@ -363,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Seller.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Models\\Seller.cs",
               "RelativeDocumentMoniker": "MVCApi\\Models\\Seller.cs",
@@ -375,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCApi\\Views\\Home\\Index.cshtml",
@@ -387,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "MVCApi\\Views\\Home\\Privacy.cshtml",
@@ -399,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "MVCApi.csproj",
               "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\git\\learning_c-\\MVCApi\\MVCApi\\MVCApi.csproj",
               "RelativeDocumentMoniker": "MVCApi\\MVCApi.csproj",

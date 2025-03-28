@@ -6,6 +6,7 @@ using MVCApi.Models;
 using MVCApi.Models.ViewModels;
 using MVCApi.Services;
 using MVCApi.Services.Exceptions;
+using System.Diagnostics;
 
 namespace MVCApi.Controllers
 {
@@ -46,11 +47,11 @@ namespace MVCApi.Controllers
 
         public IActionResult Delete(int? id) 
         {
-            if (id == null) return NotFound();
+            if (id == null) return RedirectToAction(nameof(Error), new { message = "Id não fornecido"});
 
             var obj = _sellerService.FindById(id.Value);
 
-            if (obj == null) return NotFound();
+            if (obj == null) return RedirectToAction(nameof(Error), new { message = "Id não encontrado" });
             return View(obj);
         }
         [HttpPost]
@@ -62,17 +63,19 @@ namespace MVCApi.Controllers
 
         public IActionResult Details(int id) 
         {
+            if(id ==null) return RedirectToAction(nameof(Error), new { message = "Id não Fornecido" });
             var obj = _sellerService.FindById(id);
+            if (obj == null) return RedirectToAction(nameof(Error), new { message = "Id não encontrado" });
             return View(obj);
         }
 
         public IActionResult Edit(int id)
         {
-            if (id == null) return NotFound();
+            if (id == null) return RedirectToAction(nameof(Error), new { message = "Id não Fornecido" }); ;
            
             var obj = _sellerService.FindById(id);
             
-            if (obj == null) return NotFound();
+            if (obj == null) return RedirectToAction(nameof(Error), new { message = "Id não encontrado" }); ;
 
             List<Department> departments = _departmentService.FindAll();
             SellerFormViewModel viewModel = new SellerFormViewModel { Seller = obj, Departments = departments };
@@ -83,22 +86,24 @@ namespace MVCApi.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Edit(int id, Seller seller)
         {
-            if (id != seller.Id) return BadRequest();
+            if (id != seller.Id) return RedirectToAction(nameof(Error), new { message = "Os Ids Não Correspondem" }); ;
 
             try
             {
                 _sellerService.Update(seller);
             }
-            catch (NotFoundException ex)
+            catch (ApplicationException ex)
             {
-                return NotFound();
-            }
-            catch (DbConcurencyException ex) 
-            {
-                return NotFound();
+                return RedirectToAction(nameof(Error), new { message = ex.Message }); ;
             }
             
             return RedirectToAction(nameof(Index));
+        }
+
+        public IActionResult Error(string message)
+        {
+            var viewModel = new ErrorViewModel { Message = message, RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier };
+            return View(viewModel);
         }
     }
 }
