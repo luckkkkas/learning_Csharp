@@ -1,6 +1,9 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Localization;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Localization;
 using MVCApi.Data;
 using MVCApi.Services;
+using System.Globalization;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<MVCApiContext>(options =>
@@ -32,8 +35,16 @@ if (app.Environment.IsDevelopment())
     }
 }
 
+var localizationOptions = new RequestLocalizationOptions
+{
+    DefaultRequestCulture = new RequestCulture(new CultureInfo("en-US")),
+    SupportedCultures = new List<CultureInfo> { new CultureInfo("en-US") },
+    SupportedUICultures = new List<CultureInfo>() { new CultureInfo("en-US") }
+};
+
 app.UseHttpsRedirection();
 app.UseRouting();
+app.UseRequestLocalization(localizationOptions);
 
 app.UseAuthorization();
 
