@@ -13,22 +13,27 @@
             <div class="form-group">
                 <label asp-for="Seller.Name" class="control-label"></label>
                 <input asp-for="Seller.Name" class="form-control" />
+                <div asp-validation-summary="Seller.Name" class="text-bg-danger"></div>
             </div>
             <div class="form-group">
                 <label asp-for="Seller.Email" class="control-label"></label>
                 <input asp-for="Seller.Email" class="form-control" />
+                <div asp-validation-summary="Seller.Email" class="text-bg-danger"></div>
             </div>
             <div class="form-group">
                 <label asp-for="Seller.BirthDate" class="control-label"></label>
                 <input asp-for="Seller.BirthDate" class="form-control" />
+                <div asp-validation-summary="Seller.BirthDate" class="text-bg-danger"></div>
             </div>
             <div class="form-group">
                 <label asp-for="Seller.BaseSalary" class="control-label"></label>
                 <input asp-for="Seller.BaseSalary" class="form-control" />
+                <div asp-validation-summary="Seller.BaseSalary" class="text-bg-danger"></div>
             </div>
             <div class="form-group">
                 <label asp-for="Seller.DepartmentId" class="control-label"></label>
                 <select asp-for="Seller.DepartmentId" asp-items="@(new SelectList(Model.Departments,"Id", "Name"))"></select>
+                <div asp-validation-summary="Seller.DepartmentId" class="text-bg-danger"></div>
             </div>
             <div class="form-group">
                 <input type="Submit" name="Create" value="Create" class="btn btn-success" />
@@ -36,4 +41,8 @@
         </form>
     </div>
 </div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
 
